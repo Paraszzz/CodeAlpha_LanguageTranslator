@@ -1,0 +1,1 @@
+print("Hello! My translator app will go here.")
