@@ -1,2 +1,2 @@
 streamlit
-deep-translatorgi
+deep-translator
